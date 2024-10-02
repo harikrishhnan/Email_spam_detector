@@ -54,16 +54,6 @@ pip install -r requirements.txt
   - *Replace this file with your own dataset if you have one.*
 - **README.md**: Project documentation.
 
-```
-Spam-Detector/
-├── Spam Detector.ipynb
-├── datasets/
-│   ├── emails_dataset.csv
-│   └── other_dataset.csv
-├── README.md
-└── requirements.txt
-```
-
 ## Datasets
 
 The project comes with a default dataset (`datasets/emails_dataset.csv`), but you are encouraged to replace it with your own data for training and testing. If you have your own dataset, simply replace the existing CSV file with your dataset, making sure it has the same structure.
