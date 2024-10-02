@@ -1,4 +1,4 @@
-# Spam Detector
+# E-Mail Spam Detector
 
 
 ## Overview
